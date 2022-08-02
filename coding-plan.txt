@@ -5,6 +5,7 @@ coding plan
   * Make a website with PHP
 - Learn Javascript basic
   * Learn Vue
+  * Learn ReactJs
 - Learn Git/GitHub
 - Learn OOP
 - Learn Laravel
