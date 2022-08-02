@@ -8,3 +8,5 @@ coding plan
   * Learn ReactJs
 - Learn Git/GitHub
 - Learn OOP
+- Learn Laravel
+- Phyton Basic
