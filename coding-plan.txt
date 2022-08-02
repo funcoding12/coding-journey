@@ -10,3 +10,4 @@ coding plan
 - Learn OOP
 - Learn Laravel
 - Phyton Basic
+- Struktur data engineering
