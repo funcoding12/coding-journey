@@ -1,0 +1,8 @@
+coding plan
+
+- Learn PHP basic
+  * Basic PHP
+  * Make a website with PHP
+- Learn Git/GitHub
+- Learn OOP
+- Learn Laravel
